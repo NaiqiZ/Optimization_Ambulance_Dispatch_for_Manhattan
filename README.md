@@ -22,7 +22,7 @@ Watch the project demonstration video:
 
 ## Project Report
 For a detailed analysis and mathematical formulation, refer to our full report:
-[Optimization Project Report](paper/Optimization_Project_Report.pdf)
+[Optimization Project Report](Deliverables/Optimization_Project_Report.pdf)
 
 ## Contributor
 Ellie Yang, Naiqi Zhang, Sneha Sathish Kumar
