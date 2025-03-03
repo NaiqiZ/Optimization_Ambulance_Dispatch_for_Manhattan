@@ -5,7 +5,7 @@ This project examines optimization strategies to minimize ambulance response tim
 
 ## Project Report
 For a detailed analysis and mathematical formulation, refer to our full report:
-[Optimization Project Report](Deliverables/Optimization_Project_Report.pdf)
+[Optimization_Project_Report.pdf](https://github.com/user-attachments/files/19061687/Optimization_Project_Report.pdf)
 
 ## Video Demonstration
 https://github.com/user-attachments/assets/6ea1977c-5338-409d-a0c3-3c32deb50dc7
