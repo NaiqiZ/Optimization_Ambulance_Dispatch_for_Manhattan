@@ -5,9 +5,11 @@ This project examines optimization strategies to minimize ambulance response tim
 
 ## Video Demonstration
 Watch the project demonstration video:
-<video width="640" height="360" controls>
-  <source src="Deliverables/OptiProjectVideo_Presentation.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/6ea1977c-5338-409d-a0c3-3c32deb50dc7
+
+
 
 
 ## Methods
