@@ -3,14 +3,12 @@
 ## Project Overview
 This project examines optimization strategies to minimize ambulance response times in Manhattan: a min-sum model, a min-max model, and robust versions of both. The goal is to improve emergency medical services (EMS) efficiency while addressing equity and uncertainty challenges. Our approach integrates real-world constraints to provide actionable recommendations for dispatch optimization.
 
+## Project Report
+For a detailed analysis and mathematical formulation, refer to our full report:
+[Optimization Project Report](Deliverables/Optimization_Project_Report.pdf)
+
 ## Video Demonstration
-Watch the project demonstration video:
-
-
 https://github.com/user-attachments/assets/6ea1977c-5338-409d-a0c3-3c32deb50dc7
-
-
-
 
 ## Methods
 - **Min-Sum Model**: Minimizes total response time across all incidents.
@@ -23,10 +21,6 @@ https://github.com/user-attachments/assets/6ea1977c-5338-409d-a0c3-3c32deb50dc7
 - The **Min-Max model** ensures fairness but results in longer overall wait times.
 - The **Robust models** trade off efficiency for stability, better handling uncertainty in emergency demand.
 - **Sensitivity analysis** identified bottleneck stations where increasing capacity can significantly improve response times.
-
-## Project Report
-For a detailed analysis and mathematical formulation, refer to our full report:
-[Optimization Project Report](Deliverables/Optimization_Project_Report.pdf)
 
 ## Contributor
 Ellie Yang, Naiqi Zhang, Sneha Sathish Kumar
