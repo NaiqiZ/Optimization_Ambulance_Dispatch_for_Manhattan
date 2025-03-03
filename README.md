@@ -7,7 +7,6 @@ This project examines optimization strategies to minimize ambulance response tim
 Watch the project demonstration video:
 <video width="640" height="360" controls>
   <source src="Deliverables/OptiProjectVideo_Presentation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 
