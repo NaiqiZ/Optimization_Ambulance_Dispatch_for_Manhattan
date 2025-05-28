@@ -8,13 +8,10 @@ We developed three models to improve EMS response times under real-world constra
 - A **Min-Sum model** that minimizes total response time
 - A **Min-Max model** that ensures equity by minimizing the worst-case time
 - A **Robust model** that handles demand and capacity uncertainty
+  
+We conducted sensitivity analysis to generate staffing recommendations for key stations and identified underserved areas, including Chinatown and SoHo (10013).
 
-We performed sensitivity analysis to provide staffing susgestions to key staions and spotted underserved areas such as China Town and Soho (10013)
-
-The goal: provide actionable, equitable EMS dispatch recommendations to reduce ambulance waiting time in Manhattan, NYC.
-
-## Video Demonstration
-https://github.com/user-attachments/assets/6ea1977c-5338-409d-a0c3-3c32deb50dc7
+The goal: to provide actionable, equitable EMS dispatch recommendations to reduce ambulance waiting time in Manhattan, NYC.
 
 ## Methods
 - **Min-Sum Model**: Minimizes total response time across all incidents.
